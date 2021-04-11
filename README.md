@@ -1,6 +1,9 @@
 # UIUC_cpp
+Assignment from University of Illinois at Urbana-Champaign's [Ordered Data Structure](https://www.coursera.org/learn/cs-fundamentals-2/) and [Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3)
 
-## [Ordered Data Structure](https://www.coursera.org/learn/cs-fundamentals-2/)
 
+## Ordered Data Structure
 * Week1 LinkedList
-* Week2 GenericTree
+* Week3 GenericTree
+
+## Unordered Data Structures
