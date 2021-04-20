@@ -1,4 +1,4 @@
-# UIUC_cpp
+# UIUC CPP Assignment
 Assignment from University of Illinois at Urbana-Champaign's [Ordered Data Structure](https://www.coursera.org/learn/cs-fundamentals-2/) and [Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3)
 
 
