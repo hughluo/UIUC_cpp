@@ -8,4 +8,4 @@ Assignment from University of Illinois at Urbana-Champaign's [Ordered Data Struc
 
 ## Unordered Data Structures
 * Week1 UnorderedMap
-* Week3 Graph Search
+* Week3 GraphSearch
